@@ -1,2 +1,2 @@
 # Email_Sender
-By scripting with Python, I have created an email sender that can send hundreds and thousands of emails to people instantly, making tedious human labour non-existent.
+Leveraging Python scripting, I have engineered an email dispatch system capable of transmitting hundreds of thousands of emails instantaneously. This automation supplants the need for labor-intensive manual processes, thereby enhancing efficiency and productivity.
